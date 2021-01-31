@@ -2,7 +2,7 @@
 
 This repo contains public onboarding and planning documents for the What's Cookin' organization
 
-## [Enter the Wiki](https://github.com/Whats-Cookin/flow/wiki)
+## [Enter the Wiki](https://github.com/Whats-Cookin/flow/wiki/1-Welcome-to-What's-Cookin'-!)
 
 Code repositories require an invitation.
 
