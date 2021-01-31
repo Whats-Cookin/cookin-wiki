@@ -8,7 +8,7 @@ Code repositories require an invitation.
 
 Links below will only be accessible if you have joined the What's Cookin' team:
 
-[design](https://github.com/Whats-Cookin/design-and-pitch)
+[design](https://github.com/Whats-Cookin/design-and-pitch) - figma links, docs and design artifacts
 
 [cookin](https://github.com/Whats-Cookin/cookin) - the backend, start here to set up dev environment
 
