@@ -18,4 +18,10 @@ Links below will only be accessible if you have joined the What's Cookin' team:
 
 [wc-flutter](https://github.com/Whats-Cookin/wc-flutter) - front end v2.0 mobile
 
+Developers have read access to the planning/budgeting repository, leads have write access
+
+[planning/budgeting](https://github.com/Whats-Cookin/planning_and_budgeting)
+
+Investors may also request read access to the planning repo.
+
 
