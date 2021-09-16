@@ -1,6 +1,9 @@
 # flow
 
-This repo contains public onboarding and planning documents for the What's Cookin' organization
+This repo contains public onboarding and informational documents for the What's Cookin' organization
+
+[Internal team wiki has moved to Taiga](http://taiga.whatscookin.us/project/epics/wiki/home)
+Any internal information here is probably out of date.
 
 ## [Enter the Wiki](https://github.com/Whats-Cookin/flow/wiki/1-Welcome-to-What's-Cookin'-!)
 
